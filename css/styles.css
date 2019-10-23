@@ -1,3 +1,12 @@
 .btn{
   background-color: lightBlue;
+  text-align: center;
+
+}
+.frameBox{
+  border:2px solid lightBlue;
+  padding:25px;
+}
+h1{
+  text-align: center;
 }
